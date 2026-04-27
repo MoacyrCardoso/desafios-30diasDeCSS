@@ -4,3 +4,5 @@
 [Dia 02 - Loader animado]
 
 [Dia 03 - Mudança de cor de texto quando entra em outra div]
+
+[Dia 04 - Botão com efeito]
