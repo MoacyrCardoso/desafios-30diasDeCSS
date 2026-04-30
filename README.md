@@ -8,3 +8,5 @@
 [Dia 04 - Botão com efeito]
 
 [Dia 05 - Efeito pulsar]
+
+[Dia 06 - Efeito lightning text]
