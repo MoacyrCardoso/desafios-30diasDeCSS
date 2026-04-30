@@ -10,3 +10,5 @@
 [Dia 05 - Efeito pulsar]
 
 [Dia 06 - Efeito lightning text]
+
+[Dia 07 - Preloader animado]
