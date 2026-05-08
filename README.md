@@ -26,3 +26,5 @@
 [Dia 13 - Loading com efeito]
 
 [Dia 14 - Fundo de texto animado]
+
+[Dia 15 - Texto flutuante]
