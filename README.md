@@ -30,3 +30,5 @@
 [Dia 15 - Texto flutuante]
 
 [Dia 16 - Botão com efeito]
+
+[Dia 17 - Loader animado]
