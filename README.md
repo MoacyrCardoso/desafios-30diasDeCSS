@@ -34,3 +34,5 @@
 [Dia 17 - Loader animado]
 
 [Dia 18 - Texto esfumaçado]
+
+[Dia 19 - Efeitos de animação de fundo de partículas]
